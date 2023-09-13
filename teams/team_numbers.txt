@@ -1,0 +1,12 @@
+{
+'423.l.601828.t.1': 'Maroons',
+'423.l.601828.t.2': 'BIG RED',
+'423.l.601828.t.3': 'Car Ramrod',
+'423.l.601828.t.4': 'Got Fitz',
+'423.l.601828.t.5': 'Julia It da dogs out',
+'423.l.601828.t.6': 'Impossible Burgers',
+'423.l.601828.t.7': 'Kewis Primo Team',
+'423.l.601828.t.8': 'Manager-less Team',
+'423.l.601828.t.9': 'BlackMagic',
+'423.l.601828.t.10': 'Da Boyz in AZ'
+}

@@ -1,0 +1,12 @@
+{
+'Maroons': 'Ms',
+'BIG RED': 'BigR',
+'Car Ramrod': 'CarR',
+'Got Fitz': 'Fitz',
+'Julia It da dogs out': 'JIDDO',
+'Impossible Burgers': 'IB',
+'Kewis Primo Team': 'KPT',
+'Manager-less Team': 'MLT',
+'BlackMagic': 'BM',
+'Da Boyz in AZ': 'DBIAZ'
+}
